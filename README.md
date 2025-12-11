@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🧠 <u>About Me</u><br>I’m a student (B.Tech Ed. IT) of Kathmandu University and aspiring developer. I’m passionate about web development, understanding intelligence — both human and artificial. and I love turning ideas into functional projects and I enjoy building things that I have learn, adapt, and make sense to the world.<br> <br>💻 What I’m Working On:<br><br>Building web applications,<br>Practicing OOP concepts and DSA in C++ .<br>Exploring new frameworks and tools to expand my skillset.<br><br>📚 Currently Learning:<br><br>Advanced React techniques.<br>Backend development and API integration.<br>New Ai</p>
+<p align="left">🧠 About Me<br>I’m a student (B.Tech Ed. IT) of Kathmandu University and aspiring developer. I’m passionate about web development, understanding intelligence — both human and artificial. and I love turning ideas into functional projects and I enjoy building things that I have learn, adapt, and make sense to the world.<br> <br>💻 What I’m Working On:<br><br>Building web applications,<br>Practicing OOP concepts and DSA in C++ .<br>Exploring new frameworks and tools to expand my skillset.<br><br>📚 Currently Learning:<br><br>Advanced React techniques.<br>Backend development and API integration.<br>New Ai</p>
 
 ###
 
@@ -52,20 +52,12 @@
 
 ###
 
+<p align="left">"Have hunger to learn"</p>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kush-Shrestha/Kush-Shrestha/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<h6 align="left">"Have hunger to learn"</h6>
 
 ###
