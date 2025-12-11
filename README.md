@@ -58,6 +58,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kush-Shrestha/Kush-Shrestha/output/snake.svg" alt="Snake animation" />
+/*<img src="https://raw.githubusercontent.com/Kush-Shrestha/Kush-Shrestha/output/snake.svg" alt="Snake animation" />*/
+
+![snake gif](https://github.com/Kush-Shrestha/Kush-Shrestha/blob/output/github-contribution-grid-snake.gif)
 
 ###
