@@ -4,7 +4,8 @@
 
 
 
-<p align="left"><h3>🧠 <u>About Me</u></h3>I’m a student (B.Tech Ed. IT) of Kathmandu University and aspiring developer. I’m passionate about web development, understanding intelligence — both human and artificial. and I love turning ideas into functional projects and I enjoy building things that I have learn, adapt, and make sense to the world.<h3>💻 <u>What I’m Working On:</u></h3>>Building web applications,<br>>Practicing OOP concepts and DSA in C++ .<br>>Exploring new frameworks and tools to expand my skillset.<br><h3>📚 <u>Currently Learning:</u></h3>>Advanced React techniques.<br>>Backend development and API integration.<br>>New Ai</p>
+# <h3>🧠 <u>About Me</u></h3>
+<p align="left">I’m a student (B.Tech Ed. IT) of Kathmandu University and aspiring developer. I’m passionate about developing, understanding intelligence — both human and artificial. and I love turning ideas into functional projects and I enjoy building things that I have learn, adapt, and make sense to the world.<h3>💻 <u>What I’m Working On:</u></h3>>Building web applications,<br>>Practicing OOP concepts and DSA in C++ .<br>>Exploring new frameworks and tools to expand my skillset.<br><h3>📚 <u>Currently Learning:</u></h3>>Advanced React techniques.<br>>Backend development and API integration.<br>>New Ai</p>
 <hr>
 
 
