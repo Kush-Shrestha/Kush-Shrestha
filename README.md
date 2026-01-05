@@ -1,9 +1,8 @@
 <br clear="both">
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=जजोलोप+🙏!;I'm+Kushal+Shrestha+(+Kush+)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=जजोलोप+🙏!;I'm+Kushal+Shrestha+(+Kush+)" alt="Kushal Shrestha Profile"/>
 </div>
-<h2 align="left">ा 🙏! I am (Kush)</h2>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+a+full+stack+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 
 
 
