@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%98%8A!;I'm+Kushal+Shrestha+(Kush)" alt="Kushal Shrestha Profile"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%B2%E0%A4%AA%E0%A4%BE+%F0%9F%98%8A!;I'm+Kushal+Shrestha+(Kush)" alt="Kushal Shrestha Profile"/>
 </div>
 
 ## 🧠 About Me
