@@ -11,13 +11,13 @@ I'm a student (B.Tech Ed. IT) at Kathmandu University and emerging developer. I'
 
 - Building web applications
 - Practicing OOP concepts and DSA in C++
-- Asp-.net-core-api project
+- Asp-net-core-api project
 - Exploring new frameworks and tools to expand my skillset
 
 ## 📚 Currently Learning:
 
 - Advanced React techniques
-- Asp-.net-core web api
+- C#(Dot Net)
 - Backend development and API integration
 - AI technologies
 
