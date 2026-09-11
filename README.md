@@ -5,14 +5,14 @@
 
 ## 🧠 About Me
 
-I'm a student (B.Tech Ed. IT) at Kathmandu University and emerging developer. I'm passionate about developing, learning and understanding intelligence — both human and artificial. I love turning ideas into functional projects and I enjoy building things that learn, adapt, and make sense of the world.
+I'm a student at Kathmandu University and emerging developer. I'm passionate about developing, learning and understanding intelligence — both human and artificial. I love turning ideas into functional projects and I enjoy building things that learn, adapt, and make sense of the world.
 
 ## 💻 What I'm Working On:
 
 - Building web applications
-- Practicing OOP concepts and DSA in C++
+- Practicing DSA in C++
 - Asp-net-core-api project
-- Exploring new frameworks and tools to expand my skillset
+- Exploring new Ai and tools to expand my skillset
 
 ## 📚 Currently Learning:
 
